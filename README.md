@@ -25,5 +25,6 @@ https://docs.google.com/document/d/19OSSHI0NC3oWbnUz4HcqqfTQaUmvT6kR3hZytbVD1yQ/
 
 # Powerpoint
 
+[Object Oriented Computing Course Project.pptx](https://github.com/AkkU438/Course_Project/files/14948297/Object.Oriented.Computing.Course.Project.pptx)
 
   
