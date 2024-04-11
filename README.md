@@ -21,7 +21,7 @@ The purpose of this project is to provide quality family friendly entertainment 
 https://docs.google.com/document/d/17JK_l3BY49VkZNx4F0chGt97BlfF4CDUcN0aXXD1fEg/edit?usp=sharing
 
 # Implementation Manual
-
+https://docs.google.com/document/d/19OSSHI0NC3oWbnUz4HcqqfTQaUmvT6kR3hZytbVD1yQ/edit?usp=sharing
 
 # Powerpoint
 
