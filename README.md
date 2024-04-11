@@ -18,11 +18,9 @@ The purpose of this project is to provide quality family friendly entertainment 
   A special thank you to all of these people
 
 # User Manual
-
-
+https://docs.google.com/document/d/17JK_l3BY49VkZNx4F0chGt97BlfF4CDUcN0aXXD1fEg/edit?usp=sharing
 
 # Implementation Manual
-
 
 
 # Powerpoint
