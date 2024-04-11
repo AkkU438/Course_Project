@@ -10,15 +10,22 @@ Hello, welcome to the BlackJack simulator. This program is used to closely resem
 
 The purpose of this project is to provide quality family friendly entertainment to teach children the dangers of gambling from an early age. Even though blackjack is considered to be a more neutral game it is still difficult to consistently win, and our project can help show that. It also can be used to practice playing without the consquences of losing any money.
 
+# Special Thanks
+ We do not own the music or any of the images used in this game, they came from copyright free sources
+  Music: Song by <a href="https://stocktune.com/free-music/cafe-jazz-vibes-1568-736">StockTune</a>
+  Card Design: Byron Knoll: http://code.google.com/p/vector-playing-cards/
+  Back of card design: jeffshee: https://opengameart.org/content/colorful-poker-card-back
+  A special thank you to all of these people
 
-﻿#User Manual
+# User Manual
 
 
 
-﻿#Implementation Manual
+# Implementation Manual
 
 
 
-#Powerpoint
+# Powerpoint
+
 
   
