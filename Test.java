@@ -22,6 +22,14 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/*
+ We do not own the music or any of the images used in this game, they came from copyright free sources
+  Music: Song by <a href="https://stocktune.com/free-music/cafe-jazz-vibes-1568-736">StockTune</a>
+  Card Design: Byron Knoll: http://code.google.com/p/vector-playing-cards/
+  Back of card design: jeffshee: https://opengameart.org/content/colorful-poker-card-back
+  A special thank you to all of these people
+ */
+
 public class Test extends Application {
 
     private Deck deck;
