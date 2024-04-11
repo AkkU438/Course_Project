@@ -15,7 +15,7 @@ The purpose of this project is to provide quality family friendly entertainment 
   Music: Song by <a href="https://stocktune.com/free-music/cafe-jazz-vibes-1568-736">StockTune</a>
   Card Design: Byron Knoll: http://code.google.com/p/vector-playing-cards/
   Back of card design: jeffshee: https://opengameart.org/content/colorful-poker-card-back
-  A special thank you to all of these people
+  A special thank you to all of these people and AIs that helped
 
 # User Manual
 https://docs.google.com/document/d/17JK_l3BY49VkZNx4F0chGt97BlfF4CDUcN0aXXD1fEg/edit?usp=sharing
