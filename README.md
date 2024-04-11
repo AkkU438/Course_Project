@@ -25,7 +25,8 @@ https://docs.google.com/document/d/19OSSHI0NC3oWbnUz4HcqqfTQaUmvT6kR3hZytbVD1yQ/
 
 # Powerpoint
 
-[Object Oriented Computing Final Course Project.pptx](https://github.com/AkkU438/Course_Project/files/14948348/Object.Oriented.Computing.Final.Course.Project.pptx)
+[OOC Final Course Project.pptx](https://github.com/AkkU438/Course_Project/files/14949024/OOC.Final.Course.Project.pptx)
+
 
 
   
