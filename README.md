@@ -11,14 +11,14 @@ Hello, welcome to the BlackJack simulator. This program is used to closely resem
 The purpose of this project is to provide quality family friendly entertainment to teach children the dangers of gambling from an early age. Even though blackjack is considered to be a more neutral game it is still difficult to consistently win, and our project can help show that. It also can be used to practice playing without the consquences of losing any money.
 
 
-﻿# User Manual
+﻿#User Manual
 
 
 
- ﻿# Implementation Manual
+﻿#Implementation Manual
 
 
 
- ﻿# Powerpoint
+#Powerpoint
 
   
